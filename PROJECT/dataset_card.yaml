@@ -1,0 +1,16 @@
+language: 
+- fr
+license: 
+- CC-BY-NC
+multilinguality: 
+- monolingual
+size_categories: 
+- n<1K
+tags: 
+- text
+- summary
+task_categories: 
+- summarization
+sub_tasks: 
+- new-articles-headline-generation
+- news-articles-summarization
